@@ -1,20 +1,53 @@
-#head{
-	text-align: center;
+.pic{
+	background-image: url("pic web/f1.jpg");
 }
-#tab{
-	padding-left:5em;
+.pic2{
+	background-image: url("pic web/f2.jpg");
 }
-#ma{
-	margin: 5em;
-	border: solid 1pt;
+.pic3{
+	background-image: url("pic web/5.jpg");
 }
-#ma2{
-	margin: 1.5em;
+.pic4{
+	background-image: url("pic web/6.jpg");
 }
-#img1{
-	height: 75%;
-	width: 75%;
+.pic5{
+	background-image: url("pic web/7.jpg");
 }
-td{
-	border-bottom: solid 1px;
+.pic6{
+	background-image: url("pic web/8.jpg");
+}
+.pic7{
+	background-image: url("pic web/35.jpg");
+}
+.back{
+	background-position: center;
+	position: relative;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin: 0;
+	background-attachment: fixed;
+	height: 400px;
+}
+.text{
+	font-family: 'Kanit', sans-serif;
+	margin-right: 9em;
+	margin-left: 9em;
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+.start{
+	font-size: 66px;
+	line-height: .7;
+	float: left;
+	margin-bottom: -.08em;
+	color: #008E0A;
+}
+.top{
+	margin-top: 29;
+}
+body{
+	margin: 0;
+}
+p{
+	font-size: 21px;
 }
