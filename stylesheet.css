@@ -28,10 +28,17 @@
 	background-attachment: fixed;
 	height: 400px;
 }
+.sub-heading{
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+	font-weight: 2px;
+	color: rgba(0,0,0,0.5);
+}
 .text{
 	font-family: 'Kanit', sans-serif;
-	margin-right: 9em;
-	margin-left: 9em;
+	margin-right: 15em;
+	margin-left: 15em;
 	margin-top: 3em;
 	margin-bottom: 3em;
 }
@@ -45,9 +52,22 @@
 .top{
 	margin-top: 29;
 }
+.head{
+	margin: 0;
+	text-align: center;
+	font-size: 66px;
+}
+.divh{
+	background-color: white;
+	margin-top: 0;
+	opacity: 0.9;
+}
 body{
 	margin: 0;
 }
 p{
 	font-size: 21px;
+}
+h1{
+	margin-bottom: 0;
 }
