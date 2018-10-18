@@ -19,6 +19,60 @@
 .pic7{
 	background-image: url("pic web/35.jpg");
 }
+.pic8{
+	background-image: url("pic web/9.jpg");
+}
+.pic9{
+	background-image: url("pic web/10.jpg");
+}
+.pic10{
+	background-image: url("pic web/11.jpg");
+}
+.pic11{
+	background-image: url("pic web/12.jpg");
+}
+.pic12{
+	background-image: url("pic web/36.jpg");
+}
+.pic13{
+	background-image: url("pic web/37.jpg");
+}
+.pic14{
+	background-image: url("pic web/15.png");
+}
+.pic15{
+	background-image: url("pic web/16.jpg");
+}
+.pic16{
+	background-image: url("pic web/17.jpg");
+}
+.pic17{
+	background-image: url("pic web/18.png");
+}
+.pic18{
+	background-image: url("pic web/19.jpg");
+}
+.pic19{
+	background-image: url("pic web/20.jpg");
+}
+.pic20{
+	background-image: url("pic web/21.jpeg");
+}
+.pic21{
+	background-image: url("pic web/38.jpg");
+}
+.pic22{
+	background-image: url("pic web/22.jpg");
+}
+.pic23{
+	background-image: url("pic web/23.jpg");
+}
+.pic24{
+	background-image: url("pic web/39.jpg");
+}
+.pic25{
+	background-image: url("pic web/40.jpg");
+}
 .back{
 	background-position: center;
 	position: relative;
@@ -49,9 +103,7 @@
 	margin-bottom: -.08em;
 	color: #008E0A;
 }
-.top{
-	margin-top: 29;
-}
+
 .head{
 	margin: 0;
 	text-align: center;
